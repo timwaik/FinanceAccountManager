@@ -4,7 +4,12 @@ Simple money account manger that runs on Java.
 
 Functionality:-
 
-Able to store individual account holders.
-Able to add, remove and transfer money from/between accounts.
+Features a main menu which queries the user what they would like to do.
+Able to create and delete accounts.
+Able to store multiple accounts, and to add to, remove from, and transfer money between accounts.
+Able to view individual account details, as well as total active current accounts.
 
-More functionality may be added in the future. This code is incomplete at the moment.
+Currently in the process of:-
+
+Implementing the ability to personalise account ID
+Implementing the ability to locate an account based on username, thus creating a 'master account' that is able to control 'user accounts'.
