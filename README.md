@@ -5,9 +5,13 @@ Simple money account manger that runs on Java.
 Functionality:-
 
 Features a main menu which queries the user what they would like to do.
+
 Able to create and delete accounts.
+
 Able to store multiple accounts, and to add to, remove from, and transfer money between accounts.
+
 Able to view individual account details, as well as total active current accounts.
+
 
 Currently in the process of:-
 
