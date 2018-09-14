@@ -2,7 +2,7 @@
 
 Simple money account manger that runs on Java. 
 
-##Functionality:-
+## Functionality:-
 
 -Features a main menu which queries the user what they would like to do.
 
@@ -13,7 +13,7 @@ Simple money account manger that runs on Java.
 -Able to view individual account details, as well as total active current accounts.
 
 
-##Currently in the process of:-
+## Currently in the process of:-
 
 -Implementing the ability to personalise account ID.
 
