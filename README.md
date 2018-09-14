@@ -13,6 +13,7 @@ Simple money account manger that runs on Java.
 -Able to view individual account details, as well as total active current accounts.
 
 
+
 ## Currently in the process of:-
 
 -Implementing the ability to personalise account ID.
