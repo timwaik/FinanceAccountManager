@@ -1,6 +1,6 @@
 # FinanceAccountManager
 
-Simple program that was made with the Eclispse IDE, and runs on Java.
+Simple program that was made with the Eclispse IDE, and runs on Java 8.
 
 ## Functionality:-
 
