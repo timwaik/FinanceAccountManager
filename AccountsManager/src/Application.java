@@ -2,7 +2,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Application {
+	//Scanner//
 	static Scanner input = new Scanner(System.in);
+	////
 	
 	private static void mainMenuIntro() {
 		System.out.println("Welcome to the account manager!");
