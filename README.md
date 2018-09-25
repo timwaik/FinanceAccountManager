@@ -32,3 +32,5 @@ Simple program that was made with the Eclispse IDE, and runs on Java.
 -Optimise code by adding 'try' and 'catch' blocks.
 
 -Adding code to remove exceptions threads being thrown up.
+
+-Adding a [Cancel] option to back out at any stage of any process.
