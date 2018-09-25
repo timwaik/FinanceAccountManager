@@ -30,3 +30,5 @@ Simple program that was made with the Eclispse IDE, and runs on Java.
 -~~Changing code such that accounts will not be allowed to overdraft.~~
 
 -Optimise code by adding 'try' and 'catch' blocks.
+
+-Adding code to remove exceptions threads being thrown up.
